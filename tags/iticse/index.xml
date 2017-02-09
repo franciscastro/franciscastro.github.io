@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iticse on Francisco Castro</title>
+    <link>https://franciscastro.github.io/tags/iticse/index.xml</link>
+    <description>Recent content in Iticse on Francisco Castro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <atom:link href="/tags/iticse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>22nd Annual Conference on Innovation and Technology in Computer Science Education</title>
+      <link>https://franciscastro.github.io/post/iticse-2017/</link>
+      <pubDate>Thu, 08 Dec 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/iticse-2017/</guid>
+      <description>&lt;p&gt;I will be serving as program committee member for &lt;em&gt;ITiCSE 2017&lt;/em&gt;. The conference will be on 3-5 July, 2017 at the University of Bologna, Bologna, Italy.&lt;/p&gt;
+
+&lt;p&gt;Conference page: &lt;a href=&#34;http://iticse.acm.org/&#34; target=&#34;_blank&#34;&gt;ITiCSE 2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

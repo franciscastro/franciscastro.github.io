@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Castro on Francisco Castro</title>
+    <link>https://franciscastro.github.io/index.xml</link>
+    <description>Recent content in Francisco Castro on Francisco Castro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graduate Research Innovation Exchange 2017</title>
+      <link>https://franciscastro.github.io/post/grie-2017/</link>
+      <pubDate>Wed, 08 Feb 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/grie-2017/</guid>
+      <description>&lt;p&gt;I presented my poster &lt;strong&gt;Developing Narratives on Students&amp;rsquo; Program Planning&lt;/strong&gt; at WPI&amp;rsquo;s annual Graduate Research Innovation Exchange held at the Campus Center Odeum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://franciscastro.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>17th Philippine Computing Science Congress</title>
+      <link>https://franciscastro.github.io/post/pcsc-2017/</link>
+      <pubDate>Sat, 31 Dec 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/pcsc-2017/</guid>
+      <description>&lt;p&gt;I will be serving as program committee member on the Artificial Intelligence, Intelligent Systems, Affective Computing, and Emphatic Computing track for the 17th Philippine Computing Science Congress &lt;em&gt;(PCSC)&lt;/em&gt;. The conference will be on 16-18 March, 2017 at the University of San Carlos, Talamban Campus, Cebu City, Philippines.&lt;/p&gt;
+
+&lt;p&gt;Conference page: &lt;a href=&#34;https://sites.google.com/site/2017pcsc/&#34; target=&#34;_blank&#34;&gt;PCSC 2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>22nd Annual Conference on Innovation and Technology in Computer Science Education</title>
+      <link>https://franciscastro.github.io/post/iticse-2017/</link>
+      <pubDate>Thu, 08 Dec 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/iticse-2017/</guid>
+      <description>&lt;p&gt;I will be serving as program committee member for &lt;em&gt;ITiCSE 2017&lt;/em&gt;. The conference will be on 3-5 July, 2017 at the University of Bologna, Bologna, Italy.&lt;/p&gt;
+
+&lt;p&gt;Conference page: &lt;a href=&#34;http://iticse.acm.org/&#34; target=&#34;_blank&#34;&gt;ITiCSE 2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pedagogy and Measurement of Program Planning Skills</title>
+      <link>https://franciscastro.github.io/publication/icer-dc-2016/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/icer-dc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://franciscastro.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://franciscastro.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Interplay Between Bottom-Up and Datatype-Driven Program Design</title>
+      <link>https://franciscastro.github.io/publication/sigcse-2016/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/sigcse-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Novice Programmers&#39; Plan Composition Strategies</title>
+      <link>https://franciscastro.github.io/publication/icer-dc-2015/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/icer-dc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Models to Predict Hint-or-Attempt Actions of Students</title>
+      <link>https://franciscastro.github.io/publication/edm-2015/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/edm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eHealth TABLET: A Developing Country Perspective in Managing the Development and Deployment of a Mobile - Cloud Electronic Medical Record for Local Government Units</title>
+      <link>https://franciscastro.github.io/publication/mdm-2014/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/mdm-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Java Programming Behaviors, Affect, Perceptions, and Syntax Errors among Low-Achieving, Average and High-Achieving Novice Programmers</title>
+      <link>https://franciscastro.github.io/publication/jecr-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/jecr-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Francisco Castro</title>
+    <link>https://franciscastro.github.io/publication_types/1/index.xml</link>
+    <description>Recent content in 1 on Francisco Castro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pedagogy and Measurement of Program Planning Skills</title>
+      <link>https://franciscastro.github.io/publication/icer-dc-2016/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/icer-dc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Interplay Between Bottom-Up and Datatype-Driven Program Design</title>
+      <link>https://franciscastro.github.io/publication/sigcse-2016/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/sigcse-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Novice Programmers&#39; Plan Composition Strategies</title>
+      <link>https://franciscastro.github.io/publication/icer-dc-2015/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/icer-dc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Models to Predict Hint-or-Attempt Actions of Students</title>
+      <link>https://franciscastro.github.io/publication/edm-2015/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/edm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eHealth TABLET: A Developing Country Perspective in Managing the Development and Deployment of a Mobile - Cloud Electronic Medical Record for Local Government Units</title>
+      <link>https://franciscastro.github.io/publication/mdm-2014/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/mdm-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

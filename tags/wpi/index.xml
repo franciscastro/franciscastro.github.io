@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wpi on Francisco Castro</title>
+    <link>https://franciscastro.github.io/tags/wpi/index.xml</link>
+    <description>Recent content in Wpi on Francisco Castro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <atom:link href="/tags/wpi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graduate Research Innovation Exchange 2017</title>
+      <link>https://franciscastro.github.io/post/grie-2017/</link>
+      <pubDate>Wed, 08 Feb 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/grie-2017/</guid>
+      <description>&lt;p&gt;I presented my poster &lt;strong&gt;Developing Narratives on Students&amp;rsquo; Program Planning&lt;/strong&gt; at WPI&amp;rsquo;s annual Graduate Research Innovation Exchange held at the Campus Center Odeum.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
