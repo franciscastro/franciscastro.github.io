@@ -116,6 +116,14 @@
     
     
     <url>
+      <loc>https://franciscastro.github.io/publication/bhi-2013/</loc>
+      <lastmod>2013-10-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://franciscastro.github.io/publication/jecr-2013/</loc>
       <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -135,6 +143,15 @@
     <url>
       <loc>https://franciscastro.github.io/publication_types/2/</loc>
       <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/publication_types/6/</loc>
+      <lastmod>2013-10-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
