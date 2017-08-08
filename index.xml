@@ -11,6 +11,18 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sometimes, Rainfall Accumulates: Talk-Alouds with Novice Functional Programmers</title>
+      <link>https://franciscastro.github.io/publication/icer-2017/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/icer-2017/</guid>
+      <description>&lt;p&gt;K. Fisler and F.E.V.G. Castro. Sometimes, Rainfall Accumulates: Talk-Alouds with Novice Functional Programmers. International Computing Education Research (Tacoma, Washington, USA. 18-20 August 2017)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://icer.hosting.acm.org/icer-2017/&#34; target=&#34;_blank&#34;&gt;ICER 2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Graduate Research Innovation Exchange 2017</title>
       <link>https://franciscastro.github.io/post/grie-2017/</link>
       <pubDate>Wed, 08 Feb 2017 12:00:00 +0000</pubDate>
@@ -174,18 +186,6 @@
       <description>&lt;p&gt;F.E.V.G. Castro and J.P. Pabico. A Study on the Effect of Exit Widths and Crowd Sizes in the Formation of Arch in Clogged Crowds. Philippine Computing Journal. Vol. 8, No. 1, pp. 21-29. August 2013. 6th Symposium on the Mathematical Aspects of Computer Science (Boracay Island, Aklan, Philippines, December 4-8, 2012).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://pcj.csp.org.ph/&#34; target=&#34;_blank&#34;&gt;PCJ&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simulating Crowd Egress Dynamics Using Multiple Agents and Social Comparison Theory</title>
-      <link>https://franciscastro.github.io/publication/asm-nast-2013/</link>
-      <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://franciscastro.github.io/publication/asm-nast-2013/</guid>
-      <description>&lt;p&gt;F.E.V.G. Castro and J.P. Pabico. Simulating Crowd Egress Dynamics Using Multiple Agents and Social Comparison Theory. Transactions of the National Academy of Science and Technology, Vol. 35, No. 1, p. 147. July 2013. 2013 Annual Scientific Meeting of the National Academy of Science and Technology (Manila, Philippines, July 10-11, 2013).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://scinet.dost.gov.ph/union/ShowSearchResult.php?s=2&amp;amp;f=&amp;amp;p=&amp;amp;x=&amp;amp;page=&amp;amp;sid=1&amp;amp;id=Simulating+crowd+egress+dynamics+using+multiple+agents+and+social+comparison+theory&amp;amp;Mtype=ANALYTICS&#34; target=&#34;_blank&#34;&gt;DOST ScINET-PHIL&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
