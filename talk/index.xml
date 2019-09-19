@@ -11,6 +11,15 @@
     <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Understanding how novice programmers solve novel programming problems</title>
+      <link>https://franciscastro.github.io/talk/umass-amherst-08072019/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/talk/umass-amherst-08072019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards a Theory of Program-Design Learning Through HtDP</title>
       <link>https://franciscastro.github.io/talk/phd-proposal-2018/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
