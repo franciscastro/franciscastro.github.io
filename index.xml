@@ -11,6 +11,18 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Qualitative Analyses of Movements Between Task-level and Code-level Thinking of Novice Programmers</title>
+      <link>https://franciscastro.github.io/publication/sigcse-2020/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/sigcse-2020/</guid>
+      <description>&lt;p&gt;F.E.V.G. Castro and K. Fisler. Qualitative Analyses of Movements Between Task-level and Code-level Thinking of Novice Programmers. 51st ACM Technical Symposium on Computer Science Education (Portland, OR, USA. 11-14 March 2020)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sigcse2020.sigcse.org/&#34; target=&#34;_blank&#34;&gt;SIGCSE 2020&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Balancing Act: A Theory on the Interactions Between High-Level Task-thinking and Low-Level Implementation-thinking of Novice Programmers</title>
       <link>https://franciscastro.github.io/publication/icer-2019/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
@@ -173,18 +185,6 @@
       <description>&lt;p&gt;F.E.V.G. Castro and K. Fisler. On the Interplay Between Bottom-Up and Data-Driven Program Design. SIGCSE 2016 (Memphis, Tennessee, USA. 2-5 March 2016)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://sigcse2016.sigcse.org/&#34; target=&#34;_blank&#34;&gt;SIGCSE 2016&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Investigating Novice Programmers&#39; Plan Composition Strategies</title>
-      <link>https://franciscastro.github.io/publication/icer-dc-2015/</link>
-      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://franciscastro.github.io/publication/icer-dc-2015/</guid>
-      <description>&lt;p&gt;F.E.V.G. Castro. Investigating Novice Programmers&amp;rsquo; Plan Composition Strategies. International Computing Education Research (Omaha, Nebraska, USA. 9-13 August 2015)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://icer.hosting.acm.org/icer-2015/&#34; target=&#34;_blank&#34;&gt;ICER 2015&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
