@@ -23,6 +23,22 @@
     </item>
     
     <item>
+      <title>Wearable Learning Platform in the media</title>
+      <link>https://franciscastro.github.io/post/wlcp-media-2019/</link>
+      <pubDate>Thu, 05 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/wlcp-media-2019/</guid>
+      <description>&lt;p&gt;Several media outlets report on our work on the &lt;a href=&#34;http://wlcp.embodied.wpi.edu/&#34; target=&#34;_blank&#34;&gt;Wearable Learning Cloud Platform&lt;/a&gt;, a platform that K-12 learners can use to design and play math games that help develop computational thinking skills.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;WPI Press: &lt;a href=&#34;https://www.wpi.edu/news/wpi-researchers-awarded-grant-help-k-12-students-design-math-games&#34; target=&#34;_blank&#34;&gt;WPI Researchers Awarded Grant to Help K-12 Students Design Math Games&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Worcester Business Journal: &lt;a href=&#34;https://www.wbjournal.com/article/wpi-researchers-get-746k-to-develop-math-game-site&#34; target=&#34;_blank&#34;&gt;WPI researchers get $746K to develop math game site&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Coding the Coder: Developing Models of Novice Programmer Cognition</title>
       <link>https://franciscastro.github.io/talk/ostem-2019/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
@@ -179,15 +195,6 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://franciscastro.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://franciscastro.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

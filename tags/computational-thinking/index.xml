@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wpi on Francisco Castro</title>
-    <link>https://franciscastro.github.io/tags/wpi/index.xml</link>
-    <description>Recent content in Wpi on Francisco Castro</description>
+    <title>Computational Thinking on Francisco Castro</title>
+    <link>https://franciscastro.github.io/tags/computational-thinking/index.xml</link>
+    <description>Recent content in Computational Thinking on Francisco Castro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Francis Castro</copyright>
-    <atom:link href="/tags/wpi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/computational-thinking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wearable Learning Platform in the media</title>

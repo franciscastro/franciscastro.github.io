@@ -11,6 +11,22 @@
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Wearable Learning Platform in the media</title>
+      <link>https://franciscastro.github.io/post/wlcp-media-2019/</link>
+      <pubDate>Thu, 05 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/post/wlcp-media-2019/</guid>
+      <description>&lt;p&gt;Several media outlets report on our work on the &lt;a href=&#34;http://wlcp.embodied.wpi.edu/&#34; target=&#34;_blank&#34;&gt;Wearable Learning Cloud Platform&lt;/a&gt;, a platform that K-12 learners can use to design and play math games that help develop computational thinking skills.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;WPI Press: &lt;a href=&#34;https://www.wpi.edu/news/wpi-researchers-awarded-grant-help-k-12-students-design-math-games&#34; target=&#34;_blank&#34;&gt;WPI Researchers Awarded Grant to Help K-12 Students Design Math Games&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Worcester Business Journal: &lt;a href=&#34;https://www.wbjournal.com/article/wpi-researchers-get-746k-to-develop-math-game-site&#34; target=&#34;_blank&#34;&gt;WPI researchers get $746K to develop math game site&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>17th Philippine Computing Science Congress</title>
       <link>https://franciscastro.github.io/post/pcsc-2017/</link>
       <pubDate>Sat, 31 Dec 2016 12:00:00 +0000</pubDate>

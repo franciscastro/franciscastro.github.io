@@ -12,6 +12,14 @@
     
     
     <url>
+      <loc>https://franciscastro.github.io/post/wlcp-media-2019/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://franciscastro.github.io/talk/ostem-2019/</loc>
       <lastmod>2019-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -264,6 +272,15 @@
     
     
     <url>
+      <loc>https://franciscastro.github.io/tags/computational-thinking/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://franciscastro.github.io/tags/conference/</loc>
       <lastmod>2016-12-31T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -321,6 +338,33 @@
     
     
     <url>
+      <loc>https://franciscastro.github.io/tags/learning/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/tags/math/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/tags/media-coverage/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://franciscastro.github.io/tags/pcsc/</loc>
       <lastmod>2016-12-31T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -357,6 +401,33 @@
     
     <url>
       <loc>https://franciscastro.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/tags/wearables/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/tags/wlcp/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://franciscastro.github.io/tags/wpi/</loc>
+      <lastmod>2019-12-05T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
