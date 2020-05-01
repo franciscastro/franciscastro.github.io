@@ -11,6 +11,18 @@
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Development of a Data-Grounded Theory of Program Design in HTDP</title>
+      <link>https://franciscastro.github.io/publication/dissertation-2020/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscastro.github.io/publication/dissertation-2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://franciscastro.github.io/img/phd-defense-2020.PNG&#34; alt=&#34;Francis Castro - WPI PhD Defense 2020&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Castro, F.E.V.G. (2020). Development of a Data-Grounded Theory of Program Design in HTDP. Retrieved from.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Qualitative Analyses of Movements Between Task-level and Code-level Thinking of Novice Programmers</title>
       <link>https://franciscastro.github.io/publication/sigcse-2020/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;M.M. Rodrigo, T.C. Andallaza, F.E.V.G. Castro, M. Armenta, T. Dy, and M. Jadud. An Analysis of Java Programming Behaviors, Affect, Perceptions, and Syntax Errors among Low-Achieving, Average and High-Achieving Novice Programmers. Journal of Educational Computing Research. Vol. 49, No. 3, pp. 293-325. 2013.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://journals.sagepub.com/home/jec&#34; target=&#34;_blank&#34;&gt;JECR&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Study on the Effect of Exit Widths and Crowd Sizes in the Formation of Arch in Clogged Crowds</title>
-      <link>https://franciscastro.github.io/publication/pcj-2013/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://franciscastro.github.io/publication/pcj-2013/</guid>
-      <description>&lt;p&gt;F.E.V.G. Castro and J.P. Pabico. A Study on the Effect of Exit Widths and Crowd Sizes in the Formation of Arch in Clogged Crowds. Philippine Computing Journal. Vol. 8, No. 1, pp. 21-29. August 2013. 6th Symposium on the Mathematical Aspects of Computer Science (Boracay Island, Aklan, Philippines, December 4-8, 2012).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pcj.csp.org.ph/&#34; target=&#34;_blank&#34;&gt;PCJ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
